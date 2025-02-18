@@ -1,4 +1,4 @@
-# tmux-config
+# tmux-conf
 TMux Configuration
 
 Sym-Linked to ~/.tmux.conf
